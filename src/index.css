@@ -12,16 +12,20 @@
   margin: 0 auto;
   border-bottom: 1px solid #3f3e3f;
 }
-.navbar h1 {
-  color: #fd1bc4;
-}
+
 .navbar .links {
   margin-left: auto;
 }
+
+.pink-color {
+  color: #fd1bc4;
+}
+
 .navbar a {
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
+  
 }
 .navbar a:hover {
   color: #d4bdcd;
@@ -95,4 +99,8 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+.na {
+  color: #fd1bc4;
 }
